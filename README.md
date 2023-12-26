@@ -1,7 +1,9 @@
 # Farlight-Cheat
-|[Download]([https://discord.gg/uHdQeAG2nT])
+
+|[Download](https://discord.gg/uHdQeAG2nT)
 |:------------- |
-Farlight Cheat + Bypass 100% Safe
+
+|Farlight Cheat + Bypass 100% Safe|
 - Aimbot
 - Visuals
 - Weapon
